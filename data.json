@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Ürün 1",
+        "price": 47,
+        "image": "https://picsum.photos/200/300?1"
+    },
+    {
+        "id": 2,
+        "title": "Ürün 2",
+        "price": 92,
+        "image": "https://picsum.photos/200/300?2"
+    },
+    {
+        "id": 3,
+        "title": "Ürün 3",
+        "price": 18,
+        "image": "https://picsum.photos/200/300?3"
+    },
+    {
+        "id": 4,
+        "title": "Ürün 4",
+        "price": 75,
+        "image": "https://picsum.photos/200/300?4"
+    },
+    {
+        "id": 5,
+        "title": "Ürün 5",
+        "price": 63,
+        "image": "https://picsum.photos/200/300?5"
+    },
+    {
+        "id": 96,
+        "title": "Ürün 96",
+        "price": 82,
+        "image": "https://picsum.photos/200/300?6"
+    },
+    {
+        "id": 97,
+        "title": "Ürün 97",
+        "price": 39,
+        "image": "https://picsum.photos/200/300?7"
+    },
+    {
+        "id": 98,
+        "title": "Ürün 98",
+        "price": 35,
+        "image": "https://picsum.photos/200/300?8"
+    },
+    {
+        "id": 99,
+        "title": "Ürün 99",
+        "price": 67,
+        "image": "https://picsum.photos/200/300?9"
+    }
+]
